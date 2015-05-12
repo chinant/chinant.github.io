@@ -1,10 +1,10 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: My Blog
+tagline: 记录生活工作点滴
+author: zhouwei
+email: chinant@21cn.com
+description: "一个程序员的博客" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Java , Python , and other "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chinant.github.io" # the base hostname & protocol for your site
 locale: en_US
@@ -55,9 +55,9 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Freshman21
+    - name: MyBlog
       href: http://yulijia.net/freshman21
-      title: Another Jekyll blog theme
+      title: live blog theme
     - name: author's website
       href: http://chinant.github.io
       title: chinant's website
