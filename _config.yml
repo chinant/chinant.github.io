@@ -1,5 +1,5 @@
 ### Site info:
-title: My Blog
+title: 茶码鼓捣
 tagline: 记录生活工作点滴
 author: zhouwei
 email: chinant@21cn.com
@@ -7,14 +7,15 @@ description: "一个程序员的博客" # You can edit this line in _config.yml.
 keywords: "Java , Python , and other "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chinant.github.io" # the base hostname & protocol for your site
-locale: en_US
+locale: cn
+
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: chinant
+github_username:  chinant
+disqus_shortname: chinant
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is my home. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: Hi, This is my home. Please enjoy it. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
@@ -35,19 +36,19 @@ locales:
       Previous: "Older"
       Next: "Newer"
       PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"  
+      Taggedwith: "and tagged"
       PostDate: "on "
     cn:
       Aboutme: "关于我"
       Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
+      Blogroll: "良师益友"
+      Categories: "分类目录"
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
-      Tags: "标签" 
+      Tags: "标签"
       Previous: "前一页"
       Next: "后一页"
-      PostedInCategories: "目录:"   
+      PostedInCategories: "目录:"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
 
@@ -55,13 +56,9 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: MyBlog
-      href: http://yulijia.net/freshman21
-      title: live blog theme
-    - name: author's website
+    - name: 茶码鼓捣
       href: http://chinant.github.io
       title: chinant's website
-
 
 ### Build settings
 markdown: kramdown
